@@ -27,13 +27,13 @@ function Sidebar() {
 			<div className="sidebarItem">
 				<span className="sidebarTitle">Follow Us</span>
 				<div className="sidebarSocial">
-                <i className="sidebarIcon fab fa-instagram-square"></i>
-                <i className="sidebarIcon fab fa-youtube-square"></i>
-                <i className="sidebarIcon fab fa-github-square"></i>
-                <i className="sidebarIcon fab fa-dribbble-square"></i>
-                <i className="sidebarIcon fab fa-behance-square"></i>
-                <i className="sidebarIcon fab fa-pinterest-square"></i>
-                </div>
+					<i className="sidebarIcon fab fa-instagram-square"></i>
+					<i className="sidebarIcon fab fa-youtube-square"></i>
+					<i className="sidebarIcon fab fa-github-square"></i>
+					<i className="sidebarIcon fab fa-dribbble-square"></i>
+					<i className="sidebarIcon fab fa-behance-square"></i>
+					<i className="sidebarIcon fab fa-pinterest-square"></i>
+				</div>
 			</div>
 		</div>
 	);
