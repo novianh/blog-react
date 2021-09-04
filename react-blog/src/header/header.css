@@ -1,0 +1,38 @@
+.header {
+	margin-top: 60px;
+}
+
+.headerTitles {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: #444;
+	font-family: "Lora", serif;
+
+}
+
+.headerTitleSm {
+    position: absolute;
+    top: 18%;
+    font-size: 20px;
+    z-index: 1000;
+}
+
+.headerTitleLg {
+    position: absolute;
+    top: 20%;
+    font-size: 100px;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 1%;
+    backdrop-filter: blur(5px);
+    background-color: rgba(255, 255, 255, 0.384);
+    border-bottom: 1px solid #fff;
+}
+
+.headerImg {
+    width: 100%;
+    height: 75vh;
+    margin-top: 80px;
+    object-fit: cover;
+}

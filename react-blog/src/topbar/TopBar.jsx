@@ -12,10 +12,10 @@ function TopBar() {
 					<li className="topListItem">Contact</li>
 					<li className="topListItem">About</li>
 					<li className="topListItem">Write</li>
-					<li className="topListItem">Logout</li>
 				</ul>
 			</div>
 			<div className="topRight">
+				<li className="topListItem">Logout</li>
 				<img
 					src="https://images.unsplash.com/photo-1515191107209-c28698631303?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
 					alt=""

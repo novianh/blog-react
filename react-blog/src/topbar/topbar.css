@@ -7,6 +7,7 @@
 	display: flex;
 	align-items: center;
 	font-family: "Josefin Sans", sans-serif;
+    z-index: 10000000;
 }
 
 .logo {
@@ -21,6 +22,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    list-style: none;
 }
 
 .topImg {
