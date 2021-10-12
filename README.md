@@ -10,7 +10,7 @@
 # Screenshot
 this is some screenshot<br><br>
 
-## Home "red"
+## Home
 ![Screenshot 2021-10-12 215848](https://user-images.githubusercontent.com/73828109/136982667-bf85c70d-07ef-4f89-a94f-ca1d09e45187.png)
 ![Screenshot 2021-10-12 215918](https://user-images.githubusercontent.com/73828109/136982699-0d7dd747-c64b-4eb2-8218-a19b16df9d77.png)
 
